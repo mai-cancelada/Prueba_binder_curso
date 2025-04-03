@@ -1,3 +1,5 @@
 numpy
 cartopy
 arm_pyart
+streamlit
+streamlit-image-comparison
