@@ -3,3 +3,4 @@ cartopy
 arm_pyart
 streamlit
 streamlit-image-comparison
+streamlit-jupyter
