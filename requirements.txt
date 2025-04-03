@@ -1,6 +1,4 @@
-numpy
-cartopy
-arm_pyart
-streamlit
+altair==4
+streamlit-jupyter==0.2.0
 streamlit-image-comparison
-streamlit-jupyter
+
